@@ -1,5 +1,18 @@
 emby/embyserver
-nyanmisaka/jellyfin
-jxxghp/moviepilot
-plexinc/pms-docker
+nyanmisaka/jellyfin # 中国特供jellyfin
+jxxghp/moviepilot # 媒体库整理
+plexinc/pms-docker # plex
 cloudnas/clouddrive2
+vaultwarden/server
+linuxserver/duplicati
+lscr.io/linuxserver/homeassistant
+gotson/komga
+metatube/metatube-server
+mtphotos/mt-photos
+mtphotos/mt-photos-ai
+mtphotos/mt-photos-deepface
+jc21/nginx-proxy-manager
+chisbread/qbittorrent
+superng6/qbittorrentee # 增强版qb
+linuxserver/transmission
+321661/snap2html # 目录树状化
