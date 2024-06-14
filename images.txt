@@ -1,7 +1,9 @@
 emby/embyserver
-nyanmisaka/jellyfin # 特供jellyfin
-jxxghp/moviepilot # 媒体库整理
-plexinc/pms-docker # plex
+#中国特供jellyfin
+nyanmisaka/jellyfin
+jxxghp/moviepilot
+#plex
+plexinc/pms-docker
 cloudnas/clouddrive2
 vaultwarden/server
 linuxserver/duplicati
@@ -13,6 +15,8 @@ mtphotos/mt-photos-ai
 mtphotos/mt-photos-deepface
 jc21/nginx-proxy-manager
 chisbread/qbittorrent
-superng6/qbittorrentee # 增强版qb
+#增强版qb
+superng6/qbittorrentee
 linuxserver/transmission
-321661/snap2html # 目录树状化
+#目录树状化
+321661/snap2html 
