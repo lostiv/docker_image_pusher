@@ -2,3 +2,4 @@ emby/embyserver
 nyanmisaka/jellyfin
 jxxghp/moviepilot
 plexinc/pms-docker
+cloudnas/clouddrive2
