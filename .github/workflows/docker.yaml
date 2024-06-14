@@ -6,7 +6,7 @@ on:
     branches: [ main ]
   # 定时执行，此处使用UTC时间
   schedule:
-    - cron: '00 19 * * *'
+    - cron: '0 19 */3 * *'
 
 
 env:
