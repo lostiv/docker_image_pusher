@@ -1,5 +1,5 @@
 emby/embyserver
-nyanmisaka/jellyfin # 中国特供jellyfin
+nyanmisaka/jellyfin # 特供jellyfin
 jxxghp/moviepilot # 媒体库整理
 plexinc/pms-docker # plex
 cloudnas/clouddrive2
