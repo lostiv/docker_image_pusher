@@ -20,3 +20,4 @@ superng6/qbittorrentee
 linuxserver/transmission
 #目录树状化
 321661/snap2html 
+xream/sub-store
